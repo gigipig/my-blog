@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to grooster"
 date:   2021-01-25 23:28:55 +1100
 categories: jekyll update
 ---
